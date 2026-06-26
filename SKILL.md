@@ -1,7 +1,7 @@
 ---
 name: digital-persona
 slug: digital-persona
-version: 1.0.0
+version: 1.0.1
 displayName: "Digital Persona - 已故人物数字永生"
 summary: "为已故人物创建全方位动态数字人格——性格、外貌、动作、神态、语音、语言风格、情绪反应。"
 description: "为已故人物创建全方位动态数字人格——性格、外貌、动作、神态、语音、语言风格、情绪反应。输入人物姓名或资料，自动研究+蒸馏为可交互的SOUL.md人格文件。触发词：「模拟XX」「复活XX」「XX的数字人格」「做个XX的AI」「复刻XX」「digital persona」「已故人物」"
